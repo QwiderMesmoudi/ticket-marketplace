@@ -1,3 +1,10 @@
-{"text": "Buy groceries", "isCompleted": true}
-{"text": "Go for a swim", "isCompleted": true}
-{"text": "Integrate Convex", "isCompleted": false}
+{"name": "Rock Night Concert", "description": "Music Concert: Rock Night", "location": "Algiers, Algeria", "eventDate": "2025-05-12T19:00:00Z", "price": 2500, "totalTickets": 500, "userId": "user_01", "is_cancelled": false}
+{"name": "Startup Pitch Event", "description": "A gathering of entrepreneurs pitching innovative ideas.", "location": "Oran, Algeria", "eventDate": "2025-06-20T10:00:00Z", "price": 0, "totalTickets": 200, "userId": "user_02", "is_cancelled": false}
+{"name": "Traditional Food Festival", "description": "Explore Algeria’s rich food culture with live cooking shows.", "location": "Constantine, Algeria", "eventDate": "2024-03-15T12:00:00Z", "price": 1500, "totalTickets": 300, "userId": "user_03", "is_cancelled": false}
+{"name": "Book Fair 2024", "description": "Meet your favorite authors and explore new books.", "location": "Tizi Ouzou, Algeria", "eventDate": "2024-02-10T14:00:00Z", "price": 500, "totalTickets": 100, "userId": "user_04", "is_cancelled": true}
+{"name": "Photography Workshop", "description": "Learn photography techniques from top professionals.", "location": "Annaba, Algeria", "eventDate": "2024-04-05T09:00:00Z", "price": 3500, "totalTickets": 50, "userId": "user_05", "is_cancelled": false}
+{"name": "Tech Conference 2024", "description": "Stay updated with the latest innovations in technology.", "location": "Algiers, Algeria", "eventDate": "2024-09-10T08:00:00Z", "price": 5000, "totalTickets": 600, "userId": "user_06", "is_cancelled": false}
+{"name": "Charity Marathon", "description": "Run for a cause and support local charities.", "location": "Bejaia, Algeria", "eventDate": "2024-07-21T06:00:00Z", "price": 2000, "totalTickets": 1000, "userId": "user_07", "is_cancelled": false}
+{"name": "Fashion Show 2024", "description": "Witness stunning fashion collections from top designers.", "location": "Oran, Algeria", "eventDate": "2024-11-05T20:00:00Z", "price": 7000, "totalTickets": 250, "userId": "user_08", "is_cancelled": false}
+{"name": "Comedy Stand-up Night", "description": "Enjoy a night of laughter with Algeria’s best comedians.", "location": "Blida, Algeria", "eventDate": "2024-05-18T21:00:00Z", "price": 1800, "totalTickets": 150, "userId": "user_09", "is_cancelled": false}
+{"name": "FIFA 24 Gaming Tournament", "description": "Compete in a FIFA 24 tournament and win exciting prizes.", "location": "Setif, Algeria", "eventDate": "2024-08-30T14:00:00Z", "price": 2500, "totalTickets": 120, "userId": "user_10", "is_cancelled": true}

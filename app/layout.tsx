@@ -3,6 +3,8 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 import { ConvexClientProvider } from "./ConvexClientProvider";
+import Header from "@/Components/Header";
+import SyncUserWithConvex from "@/Components/SyncUserWithConvex";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,7 +33,10 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
       
+
       <ConvexClientProvider>
+        <Header/>
+        <SyncUserWithConvex/>
         {children}
       </ConvexClientProvider>
         
